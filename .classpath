@@ -7,6 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="src\testSupport\aspectjweaver-1.9.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJ_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
