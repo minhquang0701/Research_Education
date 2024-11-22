@@ -9,8 +9,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj.runtime_1.9.6.202304111524.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj.weaver_1.9.6.202304111524.jar"/>
-	<classpathentry kind="lib" path="src/testSupport/org.aspectj.ajde_1.9.6.202304111524.jar"/>
-	<classpathentry kind="lib" path="src/testSupport/org.eclipse.equinox.weaving.aspectj_1.0.400.202405141514.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj_2.2.4.202405141514.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
