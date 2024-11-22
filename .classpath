@@ -7,8 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
-	<classpathentry kind="lib" path="src/testSupport/aspectjweaver-1.9.7.jar"/>
-	<classpathentry kind="lib" path="src/testSupport/aspectj-1.9.6.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj.runtime_1.9.22.202405141514.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj.runtime_1.9.6.202304111524.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj.runtime_1.9.20.202311040357.jar"/>
@@ -25,8 +23,6 @@
 	<classpathentry kind="lib" path="src/testSupport/org.eclipse.equinox.weaving.aspectj_1.0.400.202311040357.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj_2.2.4.202405141514.jar"/>
 	<classpathentry kind="lib" path="src/testSupport/org.aspectj_2.2.4.202311040357.jar"/>
-	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.ajdt.ASPECTJRT_CONTAINER"/>
 
 	<classpathentry kind="output" path="bin"/>
 </classpath>
